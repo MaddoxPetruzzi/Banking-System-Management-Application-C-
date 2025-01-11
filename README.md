@@ -24,3 +24,10 @@ g++ *.cpp -o banking_system
 
 # Run
 ./banking_system
+
+Default Login Credentials
+
+Manager Account:
+
+Username: admin
+Password: admin
