@@ -1,0 +1,7 @@
+2024-11-05 12:22:33,Deposit,1000,500.00,maddox,Success,,Deposited by account holder
+2024-11-05 12:24:13,Withdraw,1001,1000.00,admin,Success,,Withdrawn by manager
+2024-11-05 12:24:22,Withdraw,1001,500.00,admin,Failed,,Cancelled by user
+2024-11-05 13:25:53,Transfer,1000,500.00,maddox,Success,1001,Transfer between accounts
+2024-11-06 07:58:09,Transfer,1000,500.00,maddox,Success,1001,Transfer between accounts
+2024-11-06 08:19:26,Transfer,1001,500.00,maddox,Success,1000,Transfer between accounts
+2024-12-09 08:32:17,Transfer,1002,500.00,maddox,Success,1000,Transfer between accounts

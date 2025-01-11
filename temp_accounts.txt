@@ -1,0 +1,3 @@
+1000,Maddox Petruzzi,Checking,2000.000000
+1001,maddox,Savings,1000.000000
+1002,maddox,Checking,1000.000000
